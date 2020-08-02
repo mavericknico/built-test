@@ -29,7 +29,7 @@ This will generate a file called `built.rs` containing some metadata.
 
 ## Import Metadata 
 
-Embed the data in `built.rs` in a module for runtime use:
+Embed `built.rs` in a module for runtime use:
 
 ```rust
 pub mod built_info {
