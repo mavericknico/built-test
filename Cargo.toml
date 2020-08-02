@@ -1,5 +1,5 @@
 [package]
-name = "test-built"
+name = "built-test"
 version = "0.1.0"
 authors = ["Nick Schipano <maverickn@gmail.com>"]
 edition = "2018"

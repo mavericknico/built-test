@@ -71,7 +71,7 @@ fn main() -> Result<()> {
 Running the code above yields output like the following (prettified):
 ```json
 {
-  "name": "test-built",
+  "name": "built-test",
   "version": "0.1.0",
   "features": "",
   "git_commit": "e0dad77b011b585ecade3660354fd130a660cadd",
